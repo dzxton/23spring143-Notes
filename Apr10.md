@@ -1,6 +1,9 @@
 - bubble sort bug will be on **midterm**
-- class > object
-- template
+- class
+> - member variables
+>  > 1) name
+>  > 2) gender
+>  > 3) age
 > > test
 
 ```java
