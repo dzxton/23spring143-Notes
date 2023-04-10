@@ -1,4 +1,4 @@
-bubble sort bug will be on midterm
+bubble sort bug will be on *midterm*
 
 ```java
 if (data[j] > data[j + 1]) {
