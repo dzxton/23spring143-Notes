@@ -4,7 +4,7 @@
 >  > 1) name
 >  > 2) gender
 >  > 3) age
-> > test
+
 
 ```java
 if (data[j] > data[j + 1]) {
